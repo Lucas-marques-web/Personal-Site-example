@@ -4,7 +4,7 @@
 
 
 this site is an example of a personal site that  you can create to show your abilities 
-and with this project i used to practice some features of the pure html5 
+and with this project i used to practice some features of the pure html5 and css
 
 
 
